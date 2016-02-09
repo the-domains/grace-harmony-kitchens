@@ -10,17 +10,17 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.6787521
+typography_spectrum: 0.5168634
 color:
-  saturation: 0.8086004
+  saturation: 0.1281619
   brandStrength: 0.5236087
-  lightness: 0.6905565
+  lightness: 0.2107926
   brandColors:
     - '#55A9DD'
     - '#BCD531'
     - '#FFFFFF'
     - '#F7941D'
     - '#BAD0DB'
-  rhythmicContrast: 0.4671164
+  rhythmicContrast: 0.108769
 layout_spectrum: 0.8819562
 name: 'Grace & Harmony Kitchens'
