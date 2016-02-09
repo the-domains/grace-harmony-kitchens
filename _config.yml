@@ -1,0 +1,14 @@
+layout_spectrum: 0.7655987
+color:
+  saturation: 0.3905908
+  brandStrength: 0.5236087
+  lightness: 0.3220911
+  brandColors:
+    - '#55A9DD'
+    - '#BCD531'
+    - '#FFFFFF'
+    - '#F7941D'
+    - '#BAD0DB'
+  rhythmicContrast: 0.306914
+typography_spectrum: 0.6787521
+name: 'Grace & Harmony Kitchens'
