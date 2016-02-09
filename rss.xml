@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Grace & Harmony Kitchens]]></title>
         <description><![CDATA[Grace & Harmony Kitchens]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/grace-harmony-kitchens/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 22:01:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 09 Feb 2016 22:29:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/grace-harmony-kitchens/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aee28287-6574-4bcd-b1c1-315811a7663c.png">]]></description>
+            <link>https://thegrid.ai/grace-harmony-kitchens/03e6d7df-5c07-4b16-89e9-04c5242ca6dc/index.html</link>
+            <guid isPermaLink="false">03e6d7df-5c07-4b16-89e9-04c5242ca6dc</guid>
+            <pubDate>Tue, 09 Feb 2016 22:16:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2b92986-5c25-4c0f-b56a-f1a3349dd340.png">]]></description>
-            <link>undefinedd3f195d3-52aa-40fc-afb8-daef391f31fc/index.html</link>
+            <link>https://thegrid.ai/grace-harmony-kitchens/d3f195d3-52aa-40fc-afb8-daef391f31fc/index.html</link>
             <guid isPermaLink="false">d3f195d3-52aa-40fc-afb8-daef391f31fc</guid>
             <pubDate>Tue, 09 Feb 2016 21:57:32 GMT</pubDate>
         </item>
