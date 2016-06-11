@@ -1,26 +1,26 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 0.8583474
   brandStrength: 0.5236087
-  lightness: 0.2107926
+  rhythmicContrast: 0.108769
   brandColors:
     - '#55A9DD'
     - '#BCD531'
     - '#FFFFFF'
     - '#F7941D'
     - '#BAD0DB'
-  rhythmicContrast: 0.108769
-typography_spectrum: 0.5168634
+  lightness: 0.2107926
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 layout_spectrum: 0.8819562
-name: 'Grace & Harmony Kitchens'
+typography_spectrum: 0.5168634
+name: Grace & Harmony Kitchens
